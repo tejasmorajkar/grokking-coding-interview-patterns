@@ -11,6 +11,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LongestSubstringKDistinct {
+    // Time complexity: O(n)
+    // Space complexity: O(k)
     private static int findLength(String str, int k) {
         if (str == null || str.isEmpty() || str.length() < k)
             return 0;
