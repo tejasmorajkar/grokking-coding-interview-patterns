@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5f77639-3696-424f-b645-130ed37c4d72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/FruitsIntoBaskets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/NoRepeatSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/LongestSubstringAfterReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/LongestSubstringWithOnesAfterReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/MinWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/PermutationInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/StringAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SlidingWindow/LongestSubstringKDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/LongestSubstringKDistinct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +42,17 @@
   "keyToString": {
     "Application.AverageOfSubarrayOfSizeK.executor": "Run",
     "Application.FruitsIntoBaskets.executor": "Run",
+    "Application.LongestSubstringAfterReplacement.executor": "Debug",
     "Application.LongestSubstringKDistinct.executor": "Run",
+    "Application.LongestSubstringWithOnesAfterReplacement.executor": "Run",
     "Application.MaximumSumSubarrayOfSizeK.executor": "Run",
+    "Application.MinWindowSubstring.executor": "Run",
     "Application.NoRepeatSubstring.executor": "Run",
+    "Application.PermutationInString.executor": "Run",
     "Application.SlidingWindow.AverageOfSubarrayOfSizeK.executor": "Run",
     "Application.SlidingWindow.MaximumSumSubarrayOfSizeK.executor": "Run",
     "Application.SmallestSubarrayWithGivenSum.executor": "Run",
+    "Application.StringAnagrams.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -53,9 +60,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NoRepeatSubstring">
-    <configuration name="FruitsIntoBaskets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.FruitsIntoBaskets" />
+  <component name="RunManager" selected="Application.MinWindowSubstring">
+    <configuration name="LongestSubstringAfterReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.LongestSubstringAfterReplacement" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringKDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.LongestSubstringKDistinct" />
+    <configuration name="LongestSubstringWithOnesAfterReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.LongestSubstringWithOnesAfterReplacement" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoRepeatSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.NoRepeatSubstring" />
+    <configuration name="MinWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.MinWindowSubstring" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlidingWindow.MaximumSumSubarrayOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.MaximumSumSubarrayOfSizeK" />
+    <configuration name="PermutationInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.PermutationInString" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestSubarrayWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.SmallestSubarrayWithGivenSum" />
+    <configuration name="StringAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.StringAnagrams" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NoRepeatSubstring" />
-        <item itemvalue="Application.FruitsIntoBaskets" />
-        <item itemvalue="Application.LongestSubstringKDistinct" />
-        <item itemvalue="Application.SmallestSubarrayWithGivenSum" />
-        <item itemvalue="Application.SlidingWindow.MaximumSumSubarrayOfSizeK" />
+        <item itemvalue="Application.MinWindowSubstring" />
+        <item itemvalue="Application.PermutationInString" />
+        <item itemvalue="Application.StringAnagrams" />
+        <item itemvalue="Application.LongestSubstringWithOnesAfterReplacement" />
+        <item itemvalue="Application.LongestSubstringAfterReplacement" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +175,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/NoRepeatSubstring.java</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/LongestSubstringAfterReplacement.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/PermutationInString.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/PermutationInString.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/MinWindowSubstring.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
