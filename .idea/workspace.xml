@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5f77639-3696-424f-b645-130ed37c4d72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindow/WordsConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/PairWithTargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,9 @@
     "Application.MaximumSumSubarrayOfSizeK.executor": "Run",
     "Application.MinWindowSubstring.executor": "Run",
     "Application.NoRepeatSubstring.executor": "Run",
+    "Application.PairWithTargetSum.executor": "Run",
     "Application.PermutationInString.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.SlidingWindow.AverageOfSubarrayOfSizeK.executor": "Run",
     "Application.SlidingWindow.MaximumSumSubarrayOfSizeK.executor": "Run",
     "Application.SmallestSubarrayWithGivenSum.executor": "Run",
@@ -57,9 +60,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WordsConcatenation">
-    <configuration name="LongestSubstringWithOnesAfterReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.LongestSubstringWithOnesAfterReplacement" />
+  <component name="RunManager" selected="Application.RemoveDuplicates">
+    <configuration name="MinWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.MinWindowSubstring" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -71,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.MinWindowSubstring" />
+    <configuration name="PairWithTargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.PairWithTargetSum" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SlidingWindow.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.StringAnagrams" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.RemoveDuplicates" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SlidingWindow.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.PairWithTargetSum" />
         <item itemvalue="Application.WordsConcatenation" />
         <item itemvalue="Application.MinWindowSubstring" />
         <item itemvalue="Application.PermutationInString" />
-        <item itemvalue="Application.StringAnagrams" />
-        <item itemvalue="Application.LongestSubstringWithOnesAfterReplacement" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +200,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/WordsConcatenation.java</url>
           <line>22</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoPointers/RemoveDuplicates.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
