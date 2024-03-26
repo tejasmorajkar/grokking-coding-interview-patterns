@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5f77639-3696-424f-b645-130ed37c4d72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/SquaringSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumClosestToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumToZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumToZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
