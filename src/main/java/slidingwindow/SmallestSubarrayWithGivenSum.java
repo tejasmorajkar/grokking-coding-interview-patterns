@@ -4,7 +4,7 @@
  * Return 0, if no such subarray exists.
  * https://leetcode.com/problems/minimum-size-subarray-sum/
  */
-package SlidingWindow;
+package slidingwindow;
 
 public class SmallestSubarrayWithGivenSum {
     public static int findMinSubArray(int[] nums, int sum) {

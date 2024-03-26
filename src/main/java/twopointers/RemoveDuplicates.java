@@ -1,4 +1,4 @@
-package TwoPointers;
+package twopointers;
 
 public class RemoveDuplicates {
     /**

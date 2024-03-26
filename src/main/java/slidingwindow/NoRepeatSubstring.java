@@ -5,7 +5,7 @@
  * Output: 3
  * Explanation: The longest substring without any repeating characters is "abc".
  */
-package SlidingWindow;
+package slidingwindow;
 
 import java.util.HashMap;
 import java.util.Map;

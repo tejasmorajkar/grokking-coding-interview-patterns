@@ -4,7 +4,7 @@
  *  Output: [2.2, 2.8, 2.4, 3.6, 2.8]
  */
 
-package SlidingWindow;
+package slidingwindow;
 
 import java.util.Arrays;
 

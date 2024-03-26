@@ -68,11 +68,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.DutchNationalFlag">
     <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.DutchNationalFlag" />
+      <option name="MAIN_CLASS_NAME" value="twopointers.DutchNationalFlag" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="PATTERN" value="twopointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="SquaringSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.SquaringSortedArray" />
+      <option name="MAIN_CLASS_NAME" value="twopointers.SquaringSortedArray" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="PATTERN" value="twopointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="SubarraysWithProductLessThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.SubarraysWithProductLessThanTarget" />
+      <option name="MAIN_CLASS_NAME" value="twopointers.SubarraysWithProductLessThanTarget" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="PATTERN" value="twopointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="TripletSumClosestToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.TripletSumClosestToTarget" />
+      <option name="MAIN_CLASS_NAME" value="twopointers.TripletSumClosestToTarget" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="PATTERN" value="twopointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="TripletSumToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.TripletSumToZero" />
+      <option name="MAIN_CLASS_NAME" value="twopointers.TripletSumToZero" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="PATTERN" value="twopointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

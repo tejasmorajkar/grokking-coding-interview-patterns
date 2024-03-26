@@ -6,7 +6,7 @@
  * Explanation: Subarray with maximum sum is [5, 1, 3].
  */
 
-package SlidingWindow;
+package slidingwindow;
 
 public class MaximumSumSubarrayOfSizeK {
     // Time complexity: O(n)

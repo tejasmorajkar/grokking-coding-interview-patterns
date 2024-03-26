@@ -6,7 +6,7 @@
  * Explanation: s2 contains one permutation of s1 ("ba").
  */
 
-package SlidingWindow;
+package slidingwindow;
 
 import java.util.Arrays;
 import java.util.HashMap;

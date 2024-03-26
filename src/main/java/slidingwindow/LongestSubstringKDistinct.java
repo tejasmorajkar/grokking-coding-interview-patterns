@@ -5,7 +5,7 @@
  * Explanation: The longest substring with no more than '2' distinct characters is "araa".
  */
 
-package SlidingWindow;
+package slidingwindow;
 
 import java.util.HashMap;
 import java.util.Map;

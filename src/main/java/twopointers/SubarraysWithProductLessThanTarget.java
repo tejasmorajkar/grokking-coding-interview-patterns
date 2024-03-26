@@ -6,7 +6,7 @@
  * Explanation: There are six contiguous subarrays whose product is less than the target.
  */
 
-package TwoPointers;
+package twopointers;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

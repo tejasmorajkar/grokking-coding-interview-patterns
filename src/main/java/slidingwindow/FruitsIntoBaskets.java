@@ -10,7 +10,7 @@
  * Output: 3
  * Explanation: We can put 2 'C' in one basket and one 'A' in the other from the subarray ['C', 'A', 'C']
  */
-package SlidingWindow;
+package slidingwindow;
 
 import java.util.HashMap;
 import java.util.Map;

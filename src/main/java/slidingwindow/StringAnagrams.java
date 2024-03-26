@@ -9,7 +9,7 @@
  * The substring with start index = 6 is "bac", which is an anagram of "abc".
  */
 
-package SlidingWindow;
+package slidingwindow;
 
 import java.util.ArrayList;
 import java.util.Arrays;

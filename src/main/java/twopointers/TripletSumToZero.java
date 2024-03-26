@@ -13,7 +13,7 @@
  * The distinct triplets are [-1,0,1] and [-1,-1,2].
  * Notice that the order of the output and the order of the triplets does not matter.
  */
-package TwoPointers;
+package twopointers;
 
 import java.util.ArrayList;
 import java.util.Arrays;

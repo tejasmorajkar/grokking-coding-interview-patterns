@@ -1,4 +1,4 @@
-package SlidingWindow;
+package slidingwindow;
 
 public class LongestSubstringWithOnesAfterReplacement {
     private static int findLength(int[] arr, int k) {
