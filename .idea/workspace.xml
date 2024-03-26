@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5f77639-3696-424f-b645-130ed37c4d72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/DutchNationalFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/SubarraysWithProductLessThanTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumToZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageOfSubarrayOfSizeK.executor": "Run",
+    "Application.DutchNationalFlag.executor": "Run",
     "Application.FruitsIntoBaskets.executor": "Run",
     "Application.LongestSubstringAfterReplacement.executor": "Debug",
     "Application.LongestSubstringKDistinct.executor": "Run",
@@ -51,6 +55,7 @@
     "Application.SmallestSubarrayWithGivenSum.executor": "Run",
     "Application.SquaringSortedArray.executor": "Run",
     "Application.StringAnagrams.executor": "Run",
+    "Application.SubarraysWithProductLessThanTarget.executor": "Run",
     "Application.TripletSumClosestToTarget.executor": "Run",
     "Application.TripletSumToZero.executor": "Run",
     "Application.WordsConcatenation.executor": "Run",
@@ -61,22 +66,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TripletSumClosestToTarget">
-    <configuration name="PairWithTargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.PairWithTargetSum" />
-      <module name="grokking-coding-interview-patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.RemoveDuplicates" />
+  <component name="RunManager" selected="Application.DutchNationalFlag">
+    <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.DutchNationalFlag" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +82,19 @@
     </configuration>
     <configuration name="SquaringSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoPointers.SquaringSortedArray" />
+      <module name="grokking-coding-interview-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubarraysWithProductLessThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.SubarraysWithProductLessThanTarget" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DutchNationalFlag" />
+        <item itemvalue="Application.SubarraysWithProductLessThanTarget" />
         <item itemvalue="Application.TripletSumClosestToTarget" />
         <item itemvalue="Application.TripletSumToZero" />
         <item itemvalue="Application.SquaringSortedArray" />
-        <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.PairWithTargetSum" />
       </list>
     </recent_temporary>
   </component>
