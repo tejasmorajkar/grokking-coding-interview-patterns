@@ -7,7 +7,7 @@
  * Output: 2
  * Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
  */
-package twopointers;
+package two_pointers;
 
 import java.util.Arrays;
 

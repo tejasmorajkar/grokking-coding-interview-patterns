@@ -9,7 +9,7 @@
  * The output order does not matter. Returning [9,0] is fine too.
  */
 
-package slidingwindow;
+package sliding_window;
 
 import java.util.ArrayList;
 import java.util.HashMap;

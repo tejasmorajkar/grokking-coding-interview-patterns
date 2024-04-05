@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5f77639-3696-424f-b645-130ed37c4d72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/DutchNationalFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/SubarraysWithProductLessThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fast_slow_pointers/DetectLinkelistCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inplace_reversal_of_linkedlist/ReverseEveryKElementSubList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/merge_intervals/EmployeeFreeTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/merge_intervals/MaximumCPULoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/merge_intervals/MinimumMeetingRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/two_pointers/BackspaceStringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/two_pointers/MinimumWindowSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumToZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/AverageOfSubarrayOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/AverageOfSubarrayOfSizeK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/FruitsIntoBaskets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/FruitsIntoBaskets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/LongestSubstringAfterReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/LongestSubstringAfterReplacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/LongestSubstringKDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/LongestSubstringKDistinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/LongestSubstringWithOnesAfterReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/LongestSubstringWithOnesAfterReplacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/MaximumSumSubarrayOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/MaximumSumSubarrayOfSizeK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/MinWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/MinWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/NoRepeatSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/NoRepeatSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/PermutationInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/PermutationInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/SmallestSubarrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/SmallestSubarrayWithGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/StringAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/StringAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slidingwindow/WordsConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sliding_window/WordsConcatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twopointers/DutchNationalFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_pointers/DutchNationalFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twopointers/PairWithTargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_pointers/PairWithTargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twopointers/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_pointers/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twopointers/SquaringSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_pointers/SquaringSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twopointers/SubarraysWithProductLessThanTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_pointers/SubarraysWithProductLessThanTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twopointers/TripletSumClosestToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_pointers/TripletSumClosestToTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twopointers/TripletSumToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_pointers/TripletSumToZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +62,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageOfSubarrayOfSizeK.executor": "Run",
+    "Application.BackspaceStringCompare.executor": "Run",
     "Application.DutchNationalFlag.executor": "Run",
+    "Application.EmployeeFreeTime.executor": "Run",
     "Application.FruitsIntoBaskets.executor": "Run",
     "Application.LongestSubstringAfterReplacement.executor": "Debug",
     "Application.LongestSubstringKDistinct.executor": "Run",
     "Application.LongestSubstringWithOnesAfterReplacement.executor": "Run",
+    "Application.MaximumCPULoad (1).executor": "Run",
+    "Application.MaximumCPULoad.executor": "Run",
     "Application.MaximumSumSubarrayOfSizeK.executor": "Run",
     "Application.MinWindowSubstring.executor": "Run",
+    "Application.MinimumMeetingRooms (1).executor": "Run",
+    "Application.MinimumMeetingRooms (2).executor": "Run",
+    "Application.MinimumMeetingRooms.executor": "Debug",
+    "Application.MinimumWindowSort.executor": "Run",
     "Application.NoRepeatSubstring.executor": "Run",
     "Application.PairWithTargetSum.executor": "Run",
     "Application.PermutationInString.executor": "Run",
     "Application.RemoveDuplicates.executor": "Debug",
+    "Application.ReverseEveryKElementSubList.executor": "Run",
     "Application.SlidingWindow.AverageOfSubarrayOfSizeK.executor": "Run",
     "Application.SlidingWindow.MaximumSumSubarrayOfSizeK.executor": "Run",
     "Application.SmallestSubarrayWithGivenSum.executor": "Run",
@@ -63,16 +95,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DutchNationalFlag">
-    <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.DutchNationalFlag" />
+  <component name="RunManager" selected="Application.ReverseEveryKElementSubList">
+    <configuration name="EmployeeFreeTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merge_intervals.EmployeeFreeTime" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="merge_intervals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaringSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.SquaringSortedArray" />
+    <configuration name="MaximumCPULoad (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merge_intervals.MaximumCPULoad" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="merge_intervals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarraysWithProductLessThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.SubarraysWithProductLessThanTarget" />
+    <configuration name="MaximumCPULoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merge_intervals.MaximumCPULoad" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="merge_intervals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TripletSumClosestToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.TripletSumClosestToTarget" />
+    <configuration name="MinimumMeetingRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merge_intervals.MinimumMeetingRooms" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="merge_intervals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +152,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TripletSumToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.TripletSumToZero" />
+    <configuration name="MinimumMeetingRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merge_intervals.MinimumMeetingRooms" />
       <module name="grokking-coding-interview-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="merge_intervals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseEveryKElementSubList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inplace_reversal_of_linkedlist.ReverseEveryKElementSubList" />
+      <module name="grokking-coding-interview-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inplace_reversal_of_linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DutchNationalFlag" />
-        <item itemvalue="Application.SubarraysWithProductLessThanTarget" />
-        <item itemvalue="Application.TripletSumClosestToTarget" />
-        <item itemvalue="Application.TripletSumToZero" />
-        <item itemvalue="Application.SquaringSortedArray" />
+        <item itemvalue="Application.ReverseEveryKElementSubList" />
+        <item itemvalue="Application.EmployeeFreeTime" />
+        <item itemvalue="Application.MaximumCPULoad (1)" />
+        <item itemvalue="Application.MaximumCPULoad" />
+        <item itemvalue="Application.MinimumMeetingRooms" />
       </list>
     </recent_temporary>
   </component>
@@ -168,49 +214,57 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/LongestSubstringKDistinct.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/LongestSubstringKDistinct.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/FruitsIntoBaskets.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/FruitsIntoBaskets.java</url>
           <line>21</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/NoRepeatSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/NoRepeatSubstring.java</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/LongestSubstringAfterReplacement.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/LongestSubstringAfterReplacement.java</url>
           <line>17</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/PermutationInString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/PermutationInString.java</url>
           <line>18</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/PermutationInString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/PermutationInString.java</url>
           <line>41</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/MinWindowSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/MinWindowSubstring.java</url>
           <line>17</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SlidingWindow/WordsConcatenation.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/WordsConcatenation.java</url>
           <line>22</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/TwoPointers/RemoveDuplicates.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/two_pointers/RemoveDuplicates.java</url>
           <line>29</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/merge_intervals/MinimumMeetingRooms.java</url>
+          <line>20</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

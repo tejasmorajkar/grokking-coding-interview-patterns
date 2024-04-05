@@ -8,7 +8,7 @@
  * Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
  */
 
-package slidingwindow;
+package sliding_window;
 
 import java.util.HashMap;
 import java.util.Map;

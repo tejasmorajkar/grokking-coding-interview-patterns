@@ -11,7 +11,7 @@
  * Output: 4
  * Explanation: Replace the 'c' with 'b' to have a longest repeating substring "bbbb".
  */
-package slidingwindow;
+package sliding_window;
 
 public class LongestSubstringAfterReplacement {
     private static int findLength(String s, int k) {
